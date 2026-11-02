@@ -1,9 +1,9 @@
 # LAB 01: UNIVERSITY LIBRARY RESOURCE MANAGEMENT SYSTEM
 
-- **Course: Object-Oriented Programming with Swift / iOS Development
-- **Student Name: Lê Võ Anh Thư
-- **Student ID: SESEIU24024
-- **Submission Date: November 2026
+- Course: Object-Oriented Programming with Swift / iOS Development
+- Student Name: Lê Võ Anh Thư
+- Student ID: SESEIU24024
+- Submission Date: November 2026
 
 ---
 
